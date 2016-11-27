@@ -21,7 +21,7 @@ Formulaire élaboré par [@phtiriasis](https://twitter.com/phtiriasis) avec les 
 
 ## Signes d'hyperandrogénie
 - [ ] hyperpilosité
-- [ ] Spanimenorrhée
+- [ ] Spaniomenorrhée
 - [ ] Aménorrhée
 - [ ] Alopécie
 - [ ] Hyperséborrhée importante
