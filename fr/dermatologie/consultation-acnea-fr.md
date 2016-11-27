@@ -1,5 +1,5 @@
 # Consultation acné
-Formulaire élaborée par [@phtiriasis](https://twitter.com/phtiriasis) avec les critiques et remarques de quelques autres twittos.
+Formulaire élaboré par [@phtiriasis](https://twitter.com/phtiriasis) avec les critiques et remarques de quelques autres twittos.
 
 ## Contraception
 - [ ] Œstroprogestatif 1G
