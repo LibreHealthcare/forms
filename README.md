@@ -7,7 +7,7 @@ En: English forms folder
 
 Feel free to add, translate, suggest modification, open issues.
 
-# Fr
+## Fr
 Formulaires médicaux texuels pouvant être adaptés à FreeHealth EHR, FreeMedForms EMR
 ou tout autre logiciel médical ou de gestion de cabinet médical.
 Fr: formulaires en français
